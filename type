@@ -1,0 +1,46 @@
+parent node 
+div 
+span
+li
+
+unit 04
+Display:Grid
+#2d dimensional layout
+row +column we can work
+
+Grid Area
+dist btw 2 line
+
+grid template column
+1fr 1fr 1fr; (divide in 3 equal parts)
+or use pixel
+repeat 2(divide column into 2 parts)  
+
+UNIT 4
+LAPTOP 1200+ PIXEL
+320  PX(small Mobile phone)
+480 px (mobile phone)
+768px(tablet)
+1024 px-Small laptops
+1200 px-Desktops4
+percentage
+width:100%
+
+em keyboard
+div
+font size 20px
+}
+
+ROOt Em(em)
+div{
+    font size 10px
+}
+p{
+    font size 2em
+}
+
+vh(view Port height)
+vw(viewpointWidth)
+width=50wh
+in viva page no 8 align item tak aayega
+
